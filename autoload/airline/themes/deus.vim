@@ -3,7 +3,7 @@ if get(g:, 'deus_termcolors', 256) == 16
   let s:term_green = 2
   let s:term_yellow = 3
   let s:term_blue = 4
-  let s:term_purple = 2
+  let s:term_purple = 5
   let s:term_white = 7
   let s:term_black = 0
   let s:term_grey = 8
@@ -12,7 +12,7 @@ else
   let s:term_green = 114
   let s:term_yellow = 180
   let s:term_blue = 39
-  let s:term_purple = 170
+  let s:term_purple = 141
   let s:term_white = 145
   let s:term_black = 235
   let s:term_grey = 236
